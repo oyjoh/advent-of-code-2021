@@ -12,5 +12,5 @@ def part_two(data):
     pass
 
 
-print(part_one(data))
-print(part_two(data))
+print(f'part one: {part_one(data)}')
+print(f'part two: {part_two(data)}')
